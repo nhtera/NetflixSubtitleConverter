@@ -1,7 +1,7 @@
 Netflix Subtitle Converter
 ===================
 
-Script to convert subtitles (.srt) to Netflix subtitles (.dfxp)
+Script help to convert subtitles (.srt) to Netflix subtitles (.dfxp)
 
 ## About
 
@@ -11,7 +11,7 @@ Netflix Subtitle Converter is a Script help to convert subtitle (.srt) to Netfli
 
 * Converts .srt to .dfxp
 
-## How to to use:
+## How to to use
 
 * Windows:
   1. Download the file
@@ -22,7 +22,7 @@ Netflix Subtitle Converter is a Script help to convert subtitle (.srt) to Netfli
   2. Put the script in the same folder as subtitles and run it, or use from the command line like so: python convert.py /Your/path/here
   3. Use `Super Netflix` to load subtitle
 
-## Subtitles Download Sites:
+## Subtitles Download Sites
  * http://subscene.com/
  * http://www.opensubtitles.org/
 
